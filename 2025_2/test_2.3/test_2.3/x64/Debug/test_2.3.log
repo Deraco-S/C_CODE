@@ -1,0 +1,2 @@
+﻿  test.c
+LINK : fatal error LNK1168: 无法打开 D:\VS\code\2025_2\test_2.3\x64\Debug\test_2.3.exe 进行写入

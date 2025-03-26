@@ -1,0 +1,6 @@
+﻿  test.c
+D:\VS\code\2025_3\C_program_textbook\C_program_textbook\test.c(80,12): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\VS\code\2025_3\C_program_textbook\C_program_textbook\test.c(80,12):
+      请考虑在格式字符串中使用“%zu”
+  
+  C_program_textbook.vcxproj -> D:\VS\code\2025_3\C_program_textbook\x64\Debug\C_program_textbook.exe
